@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">appChallengeLeaderboard</string>
+    <string name="high_score_leaderboard">High Score Leaderboard</string>
+</resources>
